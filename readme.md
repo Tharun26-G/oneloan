@@ -34,7 +34,7 @@ loan-approval/
 ├── app.py                    # Streamlit web application
 └── requirements.txt          # Required Python packages
 ```
-
+[Dataset](https://www.kaggle.com/datasets/architsharma01/loan-approval-prediction-dataset)
 ---
 
 ## Technologies Used
